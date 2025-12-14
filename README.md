@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamLboro
-- 👀 I’m interested in coding projects, football, F1, most things computer vision-based, and crypto-mining.
-- 🌱 I’m currently learning how to run my mining rig and how to implement YOLO-v4 algorithms
+- 👀 I’m interested in data engineering projects, my growing interest in the commmodity space and exploring that (especially the ag space)
+- 🌱 I’m currently learning how to implement modern data engineering tools re Kafka, Spark etc
 - 📫 Just message me
 
 <!---
